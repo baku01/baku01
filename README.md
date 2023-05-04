@@ -33,7 +33,7 @@
 	<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-### <img src="https://github.githubassets.com/images/icons/emoji/suspect.png" width="20" height="20"> Linguagens e Ferramentas...
+### <img src="https://github.githubassets.com/images/icons/emoji/suspect.png" width="20" height="20"> Linguagens e Ferramentas
 
 
 <p align="center">
