@@ -30,7 +30,7 @@
 	<img align="center" src="http://www.hackthebox.eu/badge/image/949857" width="249" height="58">
 	<img align="center" src="HackingClub.png" width="249" height="58">
 	</br>
-	<img src="https://steemitimages.com/DQmU5iMdeeiAFURBeRuAGLpFTLzxfXaR744sdURoTTWSCkZ/divisoria2.gif" width="100%">
+	<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
 ## <img src="https://github.githubassets.com/images/icons/emoji/suspect.png" width="30" height="30"> Linguagens e Ferramentas
