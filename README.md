@@ -3,12 +3,12 @@
 </p>
 
 </br>
-<img src="https://steemitimages.com/DQmU5iMdeeiAFURBeRuAGLpFTLzxfXaR744sdURoTTWSCkZ/divisoria2.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=22ausi42vvjzr367zioj4444i&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true">
 </p>
 </br>
-<img src="https://steemitimages.com/DQmU5iMdeeiAFURBeRuAGLpFTLzxfXaR744sdURoTTWSCkZ/divisoria2.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🤖 Sobre mim 
 
@@ -24,7 +24,7 @@
 	
 
 </br>
-<img src="https://steemitimages.com/DQmU5iMdeeiAFURBeRuAGLpFTLzxfXaR744sdURoTTWSCkZ/divisoria2.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
 	<img align="center" src="https://tryhackme-badges.s3.amazonaws.com/Baku03.png" width="249" height="58">
 	<img align="center" src="http://www.hackthebox.eu/badge/image/949857" width="249" height="58">
