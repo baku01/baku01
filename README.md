@@ -8,7 +8,7 @@
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=22ausi42vvjzr367zioj4444i&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true">
 </p>
 </br>
-<img src="https://steemitimages.com/DQmU5iMdeeiAFURBeRuAGLpFTLzxfXaR744sdURoTTWSCkZ/divisoria2.gif">
+<img src="https://steemitimages.com/DQmU5iMdeeiAFURBeRuAGLpFTLzxfXaR744sdURoTTWSCkZ/divisoria2.gif" width="100%">
 
 ## 🤖 Sobre mim 
 
