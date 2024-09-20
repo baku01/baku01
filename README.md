@@ -18,22 +18,22 @@ Atualmente, estou aprimorando minhas habilidades em **Ruby on Rails**, **Spring 
 - **Java**, **Kotlin**, **Python**, **Ruby**
 
 ### Frameworks:
-- **Spring Boot**, **Ruby on Rails**, **Django**
+- **Spring Boot**, **Ruby on Rails**
 
 ### Front-end:
 - **Vue.js**, **React**
 
 ### Ferramentas:
-- **Git**, **VS Code**, **IntelliJ IDEA**
+- **Git**, **ZED**, **IntelliJ IDEA**
 
 ### Desenvolvimento Web:
 - **APIs REST**, **Microserviços**
 
 ### DevOps:
-- **Docker**, **Kubernetes**, **GitLab CI**
+- **Docker**, **Kubernetes**
 
 ### Bancos de Dados:
-- **MySQL**, **MongoDB**, **PostgreSQL**
+- **MySQL**, **MongoDB**, **PostgreSQL**, **Supabase**, **Firebase**
 
 ---
 
