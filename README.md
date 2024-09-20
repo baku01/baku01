@@ -1,29 +1,54 @@
+Claro! Vou ajustar o seu README para deixá-lo mais profissional e organizado, com alguns toques de clareza e personalização. Aqui está uma versão revisada:
+
+---
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
 
-# Olá, eu sou Pedro Correa Siqueira! 👋
+# Olá! Eu sou Pedro Correa Siqueira 👋
 
-Explorando os segredos do código com um toque de hacking em Java e Kotlin. 💻✨ Transformando desafios em soluções e construindo o futuro da tecnologia.
+Desbravando os segredos do código com paixão, seja em **Java**, **Kotlin** ou criando soluções escaláveis em **Ruby on Rails** e **Spring Boot**. 🚀 Cada desafio é uma oportunidade para aprender, inovar e transformar a tecnologia.
 
-## 🚀 Sobre Mim
+## 💡 Sobre Mim
 
-Sou um desenvolvedor apaixonado por tecnologia e programação. Atualmente, estou focando em **Ruby on Rails**, **Spring Boot** e **Vue.js** para o front-end.
+Desenvolvedor apaixonado por novas tecnologias, com foco em backend e uma forte inclinação para construção de soluções eficientes e de alto desempenho. Estou sempre buscando formas de integrar diferentes ferramentas e linguagens para oferecer o melhor em cada projeto.
+
+Atualmente, estou aprimorando minhas habilidades em **Ruby on Rails**, **Spring Boot** e **Vue.js**, enquanto trabalho em projetos que envolvem desde desenvolvimento de APIs até DevOps e infraestrutura.
 
 ## 🛠 Tecnologias e Ferramentas
 
-- **Linguagens:** Java, Kotlin, Python, Ruby
-- **Frameworks:** Spring Boot, Ruby on Rails, Django
-- **Front-end:** Vue.js, React
-- **Ferramentas:** Git, VS Code, IntelliJ IDEA
-- **Web:** REST APIs
-- **DevOps:** Docker, Kubernetes, GitLab CI
-- **Bancos de Dados:** MySQL, MongoDB, PostgreSQL
+### Linguagens:
+- **Java**, **Kotlin**, **Python**, **Ruby**
 
-## 📊 Estatísticas do GitHub
+### Frameworks:
+- **Spring Boot**, **Ruby on Rails**, **Django**
+
+### Front-end:
+- **Vue.js**, **React**
+
+### Ferramentas:
+- **Git**, **VS Code**, **IntelliJ IDEA**
+
+### Desenvolvimento Web:
+- **APIs REST**, **Microserviços**
+
+### DevOps:
+- **Docker**, **Kubernetes**, **GitLab CI**
+
+### Bancos de Dados:
+- **MySQL**, **MongoDB**, **PostgreSQL**
+
+---
+
+## 📈 Minhas Estatísticas no GitHub
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baku01&layout=compact&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baku01&show_icons=true&theme=radical)
 
-## 🤝 Vamos Conectar!
+---
+
+## 🤝 Conecte-se Comigo!
+
+Adoro colaborar em projetos, discutir novas ideias ou simplesmente bater um papo sobre tecnologia. Fique à vontade para me contactar nas seguintes plataformas:
 
 <p>
   <a href="https://www.linkedin.com/in/pedro-correa-siqueira-a89095275" title="LinkedIn">
@@ -39,3 +64,9 @@ Sou um desenvolvedor apaixonado por tecnologia e programação. Atualmente, esto
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
+
+---
+
+Sinta-se à vontade para sugerir melhorias ou contribuir com meus repositórios. Vamos juntos construir o futuro da tecnologia! 💻✨
+
+---
