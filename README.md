@@ -1,14 +1,12 @@
-Claro! Vou ajustar o seu README para deixá-lo mais profissional e organizado, com alguns toques de clareza e personalização. Aqui está uma versão revisada:
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right"/>
 
----
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
-
-# Olá! Eu sou Pedro Correa Siqueira 👋
+### Olá! Eu sou Pedro Correa Siqueira 👋 
 
 Desbravando os segredos do código com paixão, seja em **Java**, **Kotlin** ou criando soluções escaláveis em **Ruby on Rails** e **Spring Boot**. 🚀 Cada desafio é uma oportunidade para aprender, inovar e transformar a tecnologia.
 
-## 💡 Sobre Mim
+<p clear="right"/>
+
+### 💡 Sobre Mim
 
 Desenvolvedor apaixonado por novas tecnologias, com foco em backend e uma forte inclinação para construção de soluções eficientes e de alto desempenho. Estou sempre buscando formas de integrar diferentes ferramentas e linguagens para oferecer o melhor em cada projeto.
 
@@ -68,5 +66,3 @@ Adoro colaborar em projetos, discutir novas ideias ou simplesmente bater um papo
 ---
 
 Sinta-se à vontade para sugerir melhorias ou contribuir com meus repositórios. Vamos juntos construir o futuro da tecnologia! 💻✨
-
----
