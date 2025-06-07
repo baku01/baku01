@@ -1,68 +1,178 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right"/>
-
-### Olá! Eu sou Pedro Correa Siqueira 👋 
-
-Desbravando os segredos do código com paixão, seja em **Java**, **Kotlin** ou criando soluções escaláveis em **Ruby on Rails** e **Spring Boot**. 🚀 Cada desafio é uma oportunidade para aprender, inovar e transformar a tecnologia.
-
-<p clear="right"/>
-
-### 💡 Sobre Mim
-
-Desenvolvedor apaixonado por novas tecnologias, com foco em backend e uma forte inclinação para construção de soluções eficientes e de alto desempenho. Estou sempre buscando formas de integrar diferentes ferramentas e linguagens para oferecer o melhor em cada projeto.
-
-Atualmente, estou aprimorando minhas habilidades em **Ruby on Rails**, **Spring Boot** e **Vue.js**, enquanto trabalho em projetos que envolvem desde desenvolvimento de APIs até DevOps e infraestrutura.
-
-## 🛠 Tecnologias e Ferramentas
-
-### Linguagens:
-- **Java**, **Kotlin**, **Python**, **Ruby**
-
-### Frameworks:
-- **Spring Boot**, **Ruby on Rails**
-
-### Front-end:
-- **Vue.js**, **React**
-
-### Ferramentas:
-- **Git**, **ZED**, **IntelliJ IDEA**
-
-### Desenvolvimento Web:
-- **APIs REST**, **Microserviços**
-
-### DevOps:
-- **Docker**, **Kubernetes**
-
-### Bancos de Dados:
-- **MySQL**, **MongoDB**, **PostgreSQL**, **Supabase**, **Firebase**
-
----
-
-## 📈 Minhas Estatísticas no GitHub
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baku01&layout=compact&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baku01&show_icons=true&theme=radical)
-
----
-
-## 🤝 Conecte-se Comigo!
-
-Adoro colaborar em projetos, discutir novas ideias ou simplesmente bater um papo sobre tecnologia. Fique à vontade para me contactar nas seguintes plataformas:
-
-<p>
-  <a href="https://www.linkedin.com/in/pedro-correa-siqueira-a89095275" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://wa.me/5517992857329" title="WhatsApp">
-    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100005350508195" title="Facebook">
-    <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://www.instagram.com/pedro_0x80/" title="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
-
----
-
-Sinta-se à vontade para sugerir melhorias ou contribuir com meus repositórios. Vamos juntos construir o futuro da tecnologia! 💻✨
+  # Cientista em desenvolvimento
+  
+  <div align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bloch_sphere.svg/400px-Bloch_sphere.svg.png" alt="Bloch Sphere - Representação geométrica do estado quântico de um qubit" width="400px"/>
+  
+  ### Pedro Correa Siqueira
+  
+    <img src="https://latex.codecogs.com/svg.latex?\Large&space;|\psi\rangle=\alpha|0\rangle+\beta|1\rangle" alt="Quantum State Superposition"/>
+  
+  Desenvolvedor Full Stack e Pesquisador em Ciência da Computação com especialização em desenvolvimento de software escalável e computação científica de alto desempenho. Experiência consolidada em arquiteturas backend robustas e crescente dedicação aos fundamentos teóricos da Ciência da Computação, Matemática Aplicada e Computação Quântica.
+  
+  </div>
+  
+  ---
+  
+  <div align="center">
+    <img src="https://latex.codecogs.com/svg.latex?\Large&space;H=\frac{1}{\sqrt{2}}\begin{pmatrix}1&1\\1&-1\end{pmatrix}" alt="Hadamard Gate"/>
+  
+  **Quantum Computing • Scientific Computing • Mathematical Physics**
+  
+  </div>
+  
+  ---
+  
+  ## ▎Perfil Acadêmico e Profissional
+  
+  <img src="https://latex.codecogs.com/svg.latex?\Large&space;\hat{H}\psi=E\psi" alt="Schrödinger Equation" align="right"/>
+  
+  Profissional com formação sólida em desenvolvimento de sistemas complexos, atualmente direcionando esforços para estudo e aplicação de conceitos avançados em Ciência da Computação teórica e aplicada. Combino experiência prática no desenvolvimento de soluções enterprise com crescente interesse nos fundamentos matemáticos da computação.
+  
+  **Áreas de Foco Atual:**
+  
+  - **Ciência da Computação**: Algoritmos avançados, complexidade computacional e estruturas de dados otimizadas
+  - **Matemática Aplicada**: Métodos numéricos, álgebra linear computacional e análise matemática
+  - **Computação Quântica**: Algoritmos quânticos, mecânica quântica aplicada e implementações em sistemas quânticos
+  
+  <div align="center">
+    <img src="https://latex.codecogs.com/svg.latex?\Large&space;CNOT=\begin{pmatrix}1&0&0&0\\0&1&0&0\\0&0&0&1\\0&0&1&0\end{pmatrix}" alt="CNOT Gate"/>
+  </div>
+  
+  Entusiasta em arquiteturas de microserviços e sistemas distribuídos, com crescente interesse na intersecção entre computação clássica e quântica, explorando como princípios da mecânica quântica podem revolucionar paradigmas computacionais tradicionais.
+  
+  ---
+  
+  ## ▎Competências Técnicas Avançadas
+  
+  <div align="center">
+    <img src="https://latex.codecogs.com/svg.latex?\Large&space;\nabla^2\psi+\frac{2m}{\hbar^2}(E-V)\psi=0" alt="Quantum Wave Equation"/>
+  </div>
+  
+  ### **Linguagens de Programação**
+  
+  - **Backend Enterprise**: Java, Kotlin, Ruby, Python
+  - **Computação Científica**: Julia - linguagem especializada para computação numérica de alto desempenho
+  - **Frontend Moderno**: JavaScript com frameworks Vue.js e React
+  
+  ### **Frameworks e Arquiteturas Backend**
+  
+  - **Spring Boot**: Desenvolvimento de APIs enterprise com padrões arquiteturais avançados
+  - **Ruby on Rails**: Aplicações web escaláveis seguindo princípios de desenvolvimento ágil
+  - **Microserviços**: Design e implementação de arquiteturas distribuídas
+  
+  ### **Desenvolvimento Frontend**
+  
+  - **Vue.js**: Construção de interfaces reativas com arquitetura componente-based
+  - **React**: Desenvolvimento de single-page applications com gerenciamento de estado avançado
+  
+  <div align="center">
+    <img src="https://latex.codecogs.com/svg.latex?\Large&space;e^{i\pi}+1=0" alt="Euler's Identity"/>
+  </div>
+  
+  ### **Computação Científica e Matemática Computacional**
+  
+  - **Julia**: Linguagem de alto nível para computação científica com desempenho de linguagens compiladas
+  - **DifferentialEquations.jl**: Resolução numérica de sistemas de equações diferenciais complexas
+  - **LinearAlgebra.jl**: Implementação otimizada de operações de álgebra linear
+  - **Plots.jl**: Visualização científica e análise gráfica de dados experimentais
+  - **DataFrames.jl**: Manipulação eficiente de conjuntos de dados estruturados
+  - **Flux.jl**: Frameworks de aprendizado de máquina para aplicações científicas
+  - **Optimization.jl**: Algoritmos de otimização para problemas de pesquisa operacional
+  
+  ### **Fundamentos Teóricos em Desenvolvimento**
+  
+  - **Ciência da Computação**: Teoria da computação, análise de algoritmos, estruturas de dados avançadas
+  - **Matemática Aplicada**: Cálculo numérico, álgebra linear, métodos de aproximação
+  - **Computação Quântica**: Algoritmos quânticos fundamentais, gates quânticos, simulação quântica
+  
+  <div align="center">
+    <img src="https://latex.codecogs.com/svg.latex?\Large&space;\Delta x\Delta p\geq\frac{\hbar}{2}" alt="Heisenberg Uncertainty Principle"/>
+  </div>
+  
+  ### **Infraestrutura e DevOps**
+  
+  - **Containerização**: Docker para ambientes reproduzíveis e Kubernetes para orquestração
+  - **Controle de Versão**: Git com metodologias avançadas de branching e code review
+  - **Ambientes Distribuídos**: Configuração e manutenção de sistemas de alta disponibilidade
+  
+  ### **Sistemas de Gerenciamento de Dados**
+  
+  - **Bancos Relacionais**: MySQL, PostgreSQL com otimização de queries complexas
+  - **Sistemas NoSQL**: MongoDB para dados não-estruturados
+  - **Plataformas Cloud**: Supabase, Firebase para desenvolvimento ágil
+  
+  ### **Ferramentas de Pesquisa e Desenvolvimento**
+  
+  - **Ambientes Integrados**: IntelliJ IDEA, Zed Editor
+  - **Computação Científica**: Jupyter Notebooks para prototipagem e experimentação
+  - **Documentação Técnica**: LaTeX para publicações científicas, Markdown para documentação de projetos
+  
+  ---
+  
+  ## ▎Estudos em Pesquisa Científica
+  
+  <div align="center">
+    <img src="https://latex.codecogs.com/svg.latex?\Large&space;U=e^{-i\frac{H}{\hbar}t}" alt="Quantum Time Evolution"/>
+  </div>
+  
+  ### **Algoritmos e Complexidade Computacional**
+  
+  - Análise assintótica de algoritmos e otimização de complexidade temporal e espacial
+  - Implementação de estruturas de dados avançadas para problemas específicos
+  - Desenvolvimento de algoritmos paralelos e distribuídos
+  
+  ### **Matemática Computacional**
+  
+  - Métodos numéricos para resolução de equações diferenciais parciais
+  - Álgebra linear numérica e decomposições matriciais especializadas
+  - Análise de convergência e estabilidade numérica de algoritmos
+  
+  <div align="center">
+    <img src="https://latex.codecogs.com/svg.latex?\Large&space;QFT|x\rangle=\frac{1}{\sqrt{N}}\sum_{y=0}^{N-1}e^{2\pi ixy/N}|y\rangle" alt="Quantum Fourier Transform"/>
+  </div>
+  
+  ### **Computação Quântica Teórica e Aplicada**
+  
+  - Estudo de algoritmos quânticos clássicos: Shor, Grover, Quantum Fourier Transform
+  - Simulação de sistemas quânticos utilizando computadores clássicos
+  - Investigação de vantagens quânticas em problemas de otimização
+  
+  ### **Modelagem Matemática Avançada**
+  
+  - Sistemas dinâmicos e teoria do caos aplicada
+  - Métodos estocásticos e simulações de Monte Carlo
+  - Equações diferenciais estocásticas para modelagem de incertezas
+  
+  <div align="center">
+    <img src="https://latex.codecogs.com/svg.latex?\Large&space;\rho=\sum_i p_i|\psi_i\rangle\langle\psi_i|" alt="Density Matrix"/>
+  </div>
+  
+  ### **Domínios de Aplicação Científica**
+  
+  - **Física Computacional**: Simulação de fenômenos físicos complexos
+  - **Bioinformática**: Análise computacional de dados genômicos
+  - **Criptografia Quântica**: Protocolos de comunicação segura baseados em princípios quânticos
+  - **Otimização Combinatória**: Resolução de problemas NP-difíceis com abordagens híbridas
+  
+  ---
+  
+  ## ▎Métricas de Produtividade
+  
+  <div align="center">
+    <img src="https://latex.codecogs.com/svg.latex?\Large&space;\langle\phi|\psi\rangle=\int\phi^*\psi\,dx" alt="Quantum Inner Product"/>
+  </div>
+  
+  ![Distribuição de Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=baku01&layout=compact)
+  
+  ---
+  
+  <div align="center">
+    <img src="https://latex.codecogs.com/svg.latex?\Large&space;\frac{\partial\psi}{\partial t}=-\frac{i}{\hbar}H\psi" alt="Time-dependent Schrödinger Equation"/>
+  
+  > _"Nature isn't classical, dammit, and if you want to make a simulation of nature, you'd better make it quantum mechanical, and by golly it's a wonderful problem, because it doesn't look so easy."_
+  >
+  > **— Richard P. Feynman**
+  >
+  > _Simulating Physics with Computers (1981)_
+  
+  </div>
