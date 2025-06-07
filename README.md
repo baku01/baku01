@@ -1,3 +1,12 @@
+Com certeza. Corrigi o link para a "Density Matrix" utilizando o mesmo serviço alternativo.
+
+Com esta alteração, todas as imagens de equações agora utilizam um serviço mais estável, o que deve resolver em definitivo os erros de carregamento.
+
+---
+
+### Código Final Corrigido
+
+```markdown
 <div align="center">
 
 # Cientista em desenvolvimento
@@ -128,7 +137,7 @@
 - Equações diferenciais estocásticas para modelagem de incertezas
 
 <br>
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;\rho=\sum_i p_i|\psi_i\rangle\langle\psi_i|" alt="Density Matrix"/>
+<img src="https://math.vercel.app/?from=\Large%20\rho=\sum_i%20p_i|\psi_i\rangle\langle\psi_i|" alt="Density Matrix"/>
 <br>
 
 ### **Domínios de Aplicação Científica**
@@ -158,3 +167,4 @@
 > _Simulating Physics with Computers (1981)_
 
 </div>
+```
