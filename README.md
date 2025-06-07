@@ -79,7 +79,7 @@
 - **Computação Quântica**: Algoritmos quânticos fundamentais, gates quânticos, simulação quântica
 
 <br>
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;\Delta x\Delta p\geq\frac{\hbar}{2}" alt="Heisenberg Uncertainty Principle"/>
+<img src="https://math.vercel.app/?from=\Large%20\Delta%20x\Delta%20p\geq\frac{\hbar}{2}" alt="Heisenberg Uncertainty Principle"/>
 <br>
 
 ### **Infraestrutura e DevOps**
@@ -114,7 +114,7 @@
 - Análise de convergência e estabilidade numérica de algoritmos
 
 <br>
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;QFT|x\rangle=\frac{1}{\sqrt{N}}\sum_{y=0}^{N-1}e^{2\pi ixy/N}|y\rangle" alt="Quantum Fourier Transform"/>
+<img src="https://math.vercel.app/?from=\Large%20QFT|x\rangle=\frac{1}{\sqrt{N}}\sum_{y=0}^{N-1}e^{2\pi%20ixy/N}|y\rangle" alt="Quantum Fourier Transform"/>
 <br>
 
 ### **Computação Quântica Teórica e Aplicada**
@@ -149,7 +149,7 @@
 
 ---
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;\frac{\partial\psi}{\partial t}=-\frac{i}{\hbar}H\psi" alt="Time-dependent Schrödinger Equation"/>
+<img src="https://math.vercel.app/?from=\Large%20\frac{\partial\psi}{\partial%20t}=-\frac{i}{\hbar}H\psi" alt="Time-dependent Schrödinger Equation"/>
 
 > _"Nature isn't classical, dammit, and if you want to make a simulation of nature, you'd better make it quantum mechanical, and by golly it's a wonderful problem, because it doesn't look so easy."_
 >
