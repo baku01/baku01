@@ -1,12 +1,3 @@
-Com certeza. Corrigi o link para a "Density Matrix" utilizando o mesmo serviço alternativo.
-
-Com esta alteração, todas as imagens de equações agora utilizam um serviço mais estável, o que deve resolver em definitivo os erros de carregamento.
-
----
-
-### Código Final Corrigido
-
-```markdown
 <div align="center">
 
 # Cientista em desenvolvimento
@@ -167,4 +158,3 @@ Com esta alteração, todas as imagens de equações agora utilizam um serviço 
 > _Simulating Physics with Computers (1981)_
 
 </div>
-```
