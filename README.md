@@ -3,6 +3,142 @@
 # Pedro Correa Siqueira  
 ## Cientista da Computação em Desenvolvimento  
 
+<style>
+:root {
+  --bg-color: #ffffff;
+  --text-color: #333333;
+  --border-color: #e1e4e8;
+  --heading-color: #0366d6;
+  --link-color: #0366d6;
+  --quote-color: #6a737d;
+}
+
+[data-theme="dark"] {
+  --bg-color: #0d1117;
+  --text-color: #c9d1d9;
+  --border-color: #30363d;
+  --heading-color: #58a6ff;
+  --link-color: #58a6ff;
+  --quote-color: #8b949e;
+}
+
+.theme-toggle {
+  background: var(--bg-color);
+  color: var(--text-color);
+  border: 1px solid var(--border-color);
+  padding: 8px 16px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 14px;
+  margin: 10px 0;
+  transition: all 0.3s ease;
+}
+
+.theme-toggle:hover {
+  opacity: 0.8;
+  transform: translateY(-1px);
+}
+
+.markdown-body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+h1, h2, h3 {
+  color: var(--heading-color);
+  transition: color 0.3s ease;
+}
+
+hr {
+  border-color: var(--border-color);
+  transition: border-color 0.3s ease;
+}
+
+blockquote {
+  color: var(--quote-color);
+  border-left-color: var(--border-color);
+}
+
+a {
+  color: var(--link-color);
+}
+
+.theme-indicator {
+  font-size: 12px;
+  color: var(--quote-color);
+  margin-top: 5px;
+}
+</style>
+
+<button class="theme-toggle" onclick="toggleTheme()">
+  <span id="theme-icon">🌓</span>
+  <span id="theme-text">Alternar Tema</span>
+</button>
+<div class="theme-indicator" id="theme-status">Detectando tema do sistema...</div>
+
+<script>
+function setTheme(theme) {
+  document.documentElement.setAttribute('data-theme', theme);
+  localStorage.setItem('theme', theme);
+  updateThemeUI(theme);
+}
+
+function updateThemeUI(theme) {
+  const themeText = document.getElementById('theme-text');
+  const themeIcon = document.getElementById('theme-icon');
+  const themeStatus = document.getElementById('theme-status');
+  
+  if (theme === 'dark') {
+    themeText.textContent = 'Modo Claro';
+    themeIcon.textContent = '☀️';
+    themeStatus.textContent = 'Tema escuro ativado';
+  } else {
+    themeText.textContent = 'Modo Escuro';
+    themeIcon.textContent = '🌙';
+    themeStatus.textContent = 'Tema claro ativado';
+  }
+}
+
+function toggleTheme() {
+  const currentTheme = document.documentElement.getAttribute('data-theme');
+  const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+  setTheme(newTheme);
+}
+
+function detectSystemTheme() {
+  if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    return 'dark';
+  }
+  return 'light';
+}
+
+function initializeTheme() {
+  // Verificar tema salvo primeiro
+  const savedTheme = localStorage.getItem('theme');
+  
+  if (savedTheme) {
+    setTheme(savedTheme);
+  } else {
+    // Detectar tema do sistema
+    const systemTheme = detectSystemTheme();
+    setTheme(systemTheme);
+    
+    // Atualizar quando o tema do sistema mudar
+    if (window.matchMedia) {
+      window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', e => {
+        if (!localStorage.getItem('theme')) { // Só mudar automaticamente se não houver preferência salva
+          setTheme(e.matches ? 'dark' : 'light');
+        }
+      });
+    }
+  }
+}
+
+// Inicializar tema quando a página carregar
+document.addEventListener('DOMContentLoaded', initializeTheme);
+</script>
+
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bloch_sphere.svg/400px-Bloch_sphere.svg.png" alt="Bloch Sphere - Representação geométrica do estado quântico de um qubit" width="350px"/>
 </p>
