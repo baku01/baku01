@@ -2,234 +2,86 @@
 
 # Pedro Correa Siqueira
 
-## Cientista da Computação em Desenvolvimento
+## Desenvolvedor Full Stack & Pesquisador em Computação Científica
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bloch_sphere.svg/400px-Bloch_sphere.svg.png" alt="Bloch Sphere - Representação geométrica do estado quântico de um qubit" width="320px"/>
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bloch_sphere.svg/400px-Bloch_sphere.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bloch_sphere.svg/400px-Bloch_sphere.svg.png)" alt="Bloch Sphere - Representação geométrica do estado quântico de um qubit" width="250px"/>
 </p>
 
-<p align="center">
-  <img src="https://latex.codecogs.com/svg.latex?\Large&space;|\psi\rangle=\alpha|0\rangle+\beta|1\rangle" alt="Quantum State Superposition"/>
-</p>
+$$|\psi\rangle=\alpha|0\rangle+\beta|1\rangle$$
 
-**Desenvolvedor Full Stack** • **Computação Científica** • **Estudos em Computação Quântica**
+<br>
 
-</div>
+**Desenvolvedor Full Stack** • **Pesquisador em Computação Científica** • **Estudioso de Computação Quântica**
+
+> Especialista em desenvolvimento de software escalável e computação científica de alto desempenho. Combinando arquiteturas backend robustas com os fundamentos teóricos da Ciência da Computação, Matemática Aplicada e Mecânica Quântica.
+
+$$H=\frac{1}{\sqrt{2}}\begin{pmatrix}1&1\\1&-1\end{pmatrix}$$
 
 ---
 
-## Sobre mim
+## ▎Perfil Acadêmico e Profissional
 
-Sou um profissional em formação contínua na área de Ciência da Computação, com experiência prática no desenvolvimento de sistemas web, arquiteturas backend e soluções escaláveis.
+$$\hat{H}\psi=E\psi$$
 
-Meu interesse técnico está na interseção entre desenvolvimento de software, matemática aplicada, computação científica e fundamentos da computação quântica. Busco unir a construção de aplicações reais com o estudo profundo dos princípios que sustentam a computação moderna.
+Profissional com formação sólida em desenvolvimento de sistemas complexos, focado no estudo e na aplicação de conceitos avançados da computação teórica e aplicada. Combino a experiência prática na criação de soluções enterprise e web com um forte interesse nos fundamentos matemáticos da computação. Exploro ativamente como os princípios da mecânica quântica podem revolucionar os paradigmas tradicionais.
 
-Atualmente, meus estudos e projetos se concentram em:
+### Áreas de Especialização
 
-- Desenvolvimento Full Stack
-- Arquiteturas backend robustas
-- Sistemas distribuídos e microserviços
-- Computação científica de alto desempenho
-- Matemática aplicada à computação
-- Fundamentos de computação quântica
+*   **Ciência da Computação**: Algoritmos avançados, complexidade computacional e estruturas de dados otimizadas
+*   **Matemática Aplicada**: Métodos numéricos, álgebra linear computacional e análise matemática
+*   **Computação Quântica**: Algoritmos quânticos, simulação e implementações em sistemas de alto desempenho
 
 ---
 
-## Perfil acadêmico e técnico
+## ▎Stack Tecnológico
 
-<p align="center">
-  <img src="https://latex.codecogs.com/svg.latex?\Large&space;\hat{H}\psi=E\psi" alt="Schrödinger Equation"/>
-</p>
+$$\nabla^2\psi+\frac{2m}{\hbar^2}(E-V)\psi=0$$
 
-Tenho foco no desenvolvimento de sistemas complexos e no estudo de temas avançados da Ciência da Computação, combinando prática de mercado com aprofundamento teórico.
+### Linguagens & Frameworks
 
-### Principais áreas de interesse
+*   **Backend Enterprise**: Java (Spring Boot), Kotlin, Ruby (Ruby on Rails), Python
+*   **Frontend Moderno**: JavaScript, React, Next.js, Vue.js
+*   **Computação Científica**: Julia (DifferentialEquations.jl, Flux.jl, Optimization.jl, LinearAlgebra.jl)
 
-- **Ciência da Computação**  
-  Algoritmos, estruturas de dados, análise de complexidade e fundamentos computacionais.
+### Infraestrutura, Dados & Ferramentas
 
-- **Matemática Aplicada**  
-  Álgebra linear, métodos numéricos, modelagem matemática e análise computacional.
+*   **Bancos de Dados & Cloud**: PostgreSQL, MySQL, MongoDB, Supabase, Firebase
+*   **DevOps & Orquestração**: Docker, Kubernetes, Git
+*   **Ambiente de Desenvolvimento**: macOS, IntelliJ IDEA, Zed Editor, Jupyter Notebooks
 
-- **Computação Científica**  
-  Simulações, otimização, análise de dados e aplicações numéricas de alto desempenho.
-
-- **Computação Quântica**  
-  Qubits, portas quânticas, algoritmos quânticos, simulação quântica e modelos computacionais não clássicos.
-
-<p align="center">
-  <img src="https://latex.codecogs.com/svg.latex?\Large&space;H=\frac{1}{\sqrt{2}}\begin{pmatrix}1&1\\1&-1\end{pmatrix}" alt="Hadamard Gate"/>
-</p>
+$$e^{i\pi}+1=0$$
 
 ---
 
-## Stack tecnológico
+## ▎Área de Pesquisa e Estudos
 
-### Linguagens
+$$U=e^{-i\frac{H}{\hbar}t}$$
 
-- **Java**
-- **Kotlin**
-- **Ruby**
-- **Python**
-- **Julia**
-- **JavaScript**
-- **TypeScript**
+### Fundamentos Computacionais e Quânticos
 
-### Backend
+*   **Algoritmos Quânticos**: Shor, Grover, Quantum Fourier Transform
+*   **Teoria da Computação**: Análise assintótica, algoritmos paralelos, métodos numéricos
+*   **Domínios de Aplicação**: Física Computacional, Bioinformática, Otimização de problemas NP-difíceis, Modelagem Estocástica
 
-- **Spring Boot**
-- **Ruby on Rails**
-- **APIs REST**
-- **Arquitetura de microserviços**
-- **Sistemas distribuídos**
-- **Modelagem de domínio**
-- **Integração entre serviços**
-
-### Frontend
-
-- **React**
-- **Vue.js**
-- **JavaScript moderno**
-- **TypeScript**
-- **Single Page Applications**
-- **Interfaces reativas**
-
-### Bancos de dados
-
-- **PostgreSQL**
-- **MySQL**
-- **MongoDB**
-- **Modelagem relacional**
-- **Consultas SQL**
-- **Persistência de dados em aplicações web**
-
-### Infraestrutura e ferramentas
-
-- **Docker**
-- **Kubernetes**
-- **Git**
-- **Supabase**
-- **Firebase**
-- **Jupyter Notebook**
-- **LaTeX**
-- **Markdown**
+$$QFT|x\rangle=\frac{1}{\sqrt{N}}\sum_{y=0}^{N-1}e^{2\pi ixy/N}|y\rangle$$
 
 ---
 
-## Computação científica com Julia
+## ▎Estatísticas do GitHub
+
+$$\langle\phi|\psi\rangle=\int\phi^*\psi\,dx$$
 
 <p align="center">
-  <img src="https://latex.codecogs.com/svg.latex?\Large&space;\nabla^2\psi+\frac{2m}{\hbar^2}(E-V)\psi=0" alt="Quantum Wave Equation"/>
-</p>
-
-Tenho interesse especial no ecossistema Julia para computação numérica, simulação e pesquisa aplicada.
-
-### Bibliotecas e ferramentas
-
-- **DifferentialEquations.jl**  
-  Resolução numérica de equações diferenciais ordinárias, parciais e sistemas dinâmicos.
-
-- **LinearAlgebra.jl**  
-  Operações matriciais, decomposições, sistemas lineares e álgebra linear computacional.
-
-- **Plots.jl**  
-  Visualização gráfica para análise científica e exploração de dados.
-
-- **DataFrames.jl**  
-  Manipulação de dados estruturados e análise tabular.
-
-- **Flux.jl**  
-  Aprendizado de máquina e redes neurais em Julia.
-
-- **Optimization.jl**  
-  Formulação e resolução de problemas de otimização.
-
----
-
-## Áreas de estudo e pesquisa
-
-<p align="center">
-  <img src="https://math.vercel.app/?from=\Large%20QFT|x\rangle=\frac{1}{\sqrt{N}}\sum_{y=0}^{N-1}e^{2\pi%20ixy/N}|y\rangle" alt="Quantum Fourier Transform"/>
-</p>
-
-### Fundamentos computacionais
-
-- Análise de algoritmos
-- Complexidade computacional
-- Estruturas de dados avançadas
-- Algoritmos paralelos
-- Teoria da computação
-- Modelos formais de computação
-
-### Computação quântica
-
-- Estados quânticos e superposição
-- Portas quânticas
-- Circuitos quânticos
-- Algoritmo de Shor
-- Algoritmo de Grover
-- Quantum Fourier Transform
-- Simulação de sistemas quânticos
-
-### Domínios de aplicação
-
-- Física computacional
-- Otimização combinatória
-- Modelagem estocástica
-- Simulações de Monte Carlo
-- Bioinformática
-- Análise de sistemas complexos
-
-<p align="center">
-  <img src="https://math.vercel.app/?from=\Large%20\rho=\sum_i%20p_i|\psi_i\rangle\langle\psi_i|" alt="Density Matrix"/>
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=baku01&layout=compact&theme=default](https://github-readme-stats.vercel.app/api/top-langs/?username=baku01&layout=compact&theme=default)" alt="Distribuição de Linguagens"/>
 </p>
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baku01&show_icons=true&theme=default" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baku01&layout=compact&theme=default" alt="Distribuição de Linguagens"/>
-</p>
-
----
-
-## Filosofia de estudo
-
-Acredito que bons sistemas não nascem apenas do domínio de ferramentas, mas da compreensão dos fundamentos por trás delas.
-
-Por isso, busco desenvolver software com base em três pilares:
-
-- **Clareza arquitetural**
-- **Rigor técnico**
-- **Aprofundamento teórico**
-
-Meu objetivo é construir soluções sólidas, compreender os limites dos modelos computacionais clássicos e explorar novas possibilidades abertas pela computação científica e quântica.
-
----
-
-<div align="center">
-
-<p>
-  <img src="https://latex.codecogs.com/svg.latex?\Large&space;U=e^{-i\frac{H}{\hbar}t}" alt="Quantum Time Evolution"/>
-</p>
-
-> *"Nature isn't classical, dammit, and if you want to make a simulation of nature, you'd better make it quantum mechanical, and by golly it's a wonderful problem, because it doesn't look so easy."*  
-> **Richard P. Feynman**  
-> *Simulating Physics with Computers, 1981*
-
-</div>
-
----
-
-<div align="center">
-
-### Em constante desenvolvimento
-
-**Software Engineering** • **Scientific Computing** • **Quantum Computing** • **Applied Mathematics**
+> *"Nature isn't classical, dammit, and if you want to make a simulation of nature, you'd better make it quantum mechanical, and by golly it's a wonderful problem, because it doesn't look so easy."*
+> 
+> **— Richard P. Feynman**
+> 
+> *Simulating Physics with Computers (1981)*
 
 </div>
