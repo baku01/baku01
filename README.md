@@ -1,87 +1,153 @@
 <div align="center">
 
-# Pedro Correa Siqueira
+<h1>Pedro Correa Siqueira</h1>
 
-## Desenvolvedor Full Stack & Pesquisador em Computação Científica
+<h3>Desenvolvedor Full Stack &amp; Pesquisador em Computação Científica</h3>
 
-<p align="center">
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bloch_sphere.svg/400px-Bloch_sphere.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bloch_sphere.svg/400px-Bloch_sphere.svg.png)" alt="Bloch Sphere - Representação geométrica do estado quântico de um qubit" width="250px"/>
+<img
+  src="./assets/bloch-sphere.png"
+  alt="Esfera de Bloch representando geometricamente o estado quântico de um qubit"
+  width="250"
+/>
+
+<p>
+  <strong>Desenvolvimento Full Stack</strong> •
+  <strong>Computação Científica</strong> •
+  <strong>Computação Quântica</strong>
 </p>
 
-$$|\psi\rangle=\alpha|0\rangle+\beta|1\rangle$$
+</div>
 
-<br>
+$$
+|\psi\rangle = \alpha |0\rangle + \beta |1\rangle
+$$
 
-**Desenvolvedor Full Stack** • **Pesquisador em Computação Científica** • **Estudioso de Computação Quântica**
+> Atuo no desenvolvimento de software escalável e em estudos relacionados à computação científica de alto desempenho, combinando arquiteturas de software robustas com fundamentos de Ciência da Computação, Matemática Aplicada e Mecânica Quântica.
 
-> Especialista em desenvolvimento de software escalável e computação científica de alto desempenho. Combinando arquiteturas backend robustas com os fundamentos teóricos da Ciência da Computação, Matemática Aplicada e Mecânica Quântica.
-
-$$H=\frac{1}{\sqrt{2}}\begin{pmatrix}1&1\\1&-1\end{pmatrix}$$
-
----
-
-## ▎Perfil Acadêmico e Profissional
-
-$$\hat{H}\psi=E\psi$$
-
-Profissional com formação sólida em desenvolvimento de sistemas complexos, focado no estudo e na aplicação de conceitos avançados da computação teórica e aplicada. Combino a experiência prática na criação de soluções enterprise e web com um forte interesse nos fundamentos matemáticos da computação. Exploro ativamente como os princípios da mecânica quântica podem revolucionar os paradigmas tradicionais.
-
-### Áreas de Especialização
-
-*   **Ciência da Computação**: Algoritmos avançados, complexidade computacional e estruturas de dados otimizadas
-*   **Matemática Aplicada**: Métodos numéricos, álgebra linear computacional e análise matemática
-*   **Computação Quântica**: Algoritmos quânticos, simulação e implementações em sistemas de alto desempenho
+$$
+H =
+\frac{1}{\sqrt{2}}
+\begin{bmatrix}
+1 & 1 \\
+1 & -1
+\end{bmatrix}
+$$
 
 ---
 
-## ▎Stack Tecnológico
+## Perfil acadêmico e profissional
 
-$$\nabla^2\psi+\frac{2m}{\hbar^2}(E-V)\psi=0$$
+$$
+\hat{H}\psi = E\psi
+$$
 
-### Linguagens & Frameworks
+Desenvolvedor Full Stack com experiência na construção de sistemas web, aplicações empresariais e soluções orientadas a dados.
 
-*   **Backend Enterprise**: Java (Spring Boot), Kotlin, Ruby (Ruby on Rails), Python
-*   **Frontend Moderno**: JavaScript, React, Next.js, Vue.js
-*   **Computação Científica**: Julia (DifferentialEquations.jl, Flux.jl, Optimization.jl, LinearAlgebra.jl)
+Meu trabalho combina desenvolvimento de software com o estudo de fundamentos matemáticos e computacionais, com interesse especial em computação científica, algoritmos, otimização e computação quântica.
 
-### Infraestrutura, Dados & Ferramentas
+### Principais áreas de interesse
 
-*   **Bancos de Dados & Cloud**: PostgreSQL, MySQL, MongoDB, Supabase, Firebase
-*   **DevOps & Orquestração**: Docker, Kubernetes, Git
-*   **Ambiente de Desenvolvimento**: macOS, IntelliJ IDEA, Zed Editor, Jupyter Notebooks
-
-$$e^{i\pi}+1=0$$
-
----
-
-## ▎Área de Pesquisa e Estudos
-
-$$U=e^{-i\frac{H}{\hbar}t}$$
-
-### Fundamentos Computacionais e Quânticos
-
-*   **Algoritmos Quânticos**: Shor, Grover, Quantum Fourier Transform
-*   **Teoria da Computação**: Análise assintótica, algoritmos paralelos, métodos numéricos
-*   **Domínios de Aplicação**: Física Computacional, Bioinformática, Otimização de problemas NP-difíceis, Modelagem Estocástica
-
-$$QFT|x\rangle=\frac{1}{\sqrt{N}}\sum_{y=0}^{N-1}e^{2\pi ixy/N}|y\rangle$$
+- **Ciência da Computação:** algoritmos, estruturas de dados, complexidade computacional e sistemas distribuídos;
+- **Matemática Aplicada:** métodos numéricos, álgebra linear computacional, otimização e modelagem matemática;
+- **Computação Científica:** simulações, processamento de dados e computação de alto desempenho;
+- **Computação Quântica:** circuitos quânticos, algoritmos quânticos, simulação e fundamentos da informação quântica.
 
 ---
 
-## ▎Estatísticas do GitHub
+## Stack tecnológica
 
-$$\langle\phi|\psi\rangle=\int\phi^*\psi\,dx$$
+$$
+-\frac{\hbar^2}{2m}\nabla^2\psi + V\psi = E\psi
+$$
 
-<p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=baku01&layout=compact&theme=default](https://github-readme-stats.vercel.app/api/top-langs/?username=baku01&layout=compact&theme=default)" alt="Distribuição de Linguagens"/>
-</p>
+### Linguagens e frameworks
+
+| Área | Tecnologias |
+|---|---|
+| **Backend** | Java, Spring Boot, Kotlin, Ruby, Ruby on Rails e Python |
+| **Frontend** | JavaScript, React, Next.js e Vue.js |
+| **Computação científica** | Julia, DifferentialEquations.jl, Flux.jl, Optimization.jl e LinearAlgebra |
+| **APIs e integrações** | REST, autenticação, processamento de dados e integrações entre sistemas |
+
+### Infraestrutura e dados
+
+| Área | Tecnologias |
+|---|---|
+| **Bancos de dados** | PostgreSQL, MySQL e MongoDB |
+| **Backend as a Service** | Supabase e Firebase |
+| **DevOps** | Docker, Kubernetes e Git |
+| **Ambiente de desenvolvimento** | macOS, IntelliJ IDEA, Zed Editor e Jupyter Notebooks |
+
+$$
+e^{i\pi} + 1 = 0
+$$
 
 ---
 
-> *"Nature isn't classical, dammit, and if you want to make a simulation of nature, you'd better make it quantum mechanical, and by golly it's a wonderful problem, because it doesn't look so easy."*
-> 
-> **— Richard P. Feynman**
-> 
-> *Simulating Physics with Computers (1981)*
+## Pesquisa e estudos
+
+$$
+U(t) = e^{-i\frac{H}{\hbar}t}
+$$
+
+### Computação quântica
+
+- Algoritmo de Shor;
+- Algoritmo de Grover;
+- Transformada Quântica de Fourier;
+- Portas e circuitos quânticos;
+- Simulação de sistemas quânticos;
+- Informação e estados quânticos.
+
+### Computação teórica e aplicada
+
+- Análise assintótica;
+- Algoritmos paralelos;
+- Métodos numéricos;
+- Otimização computacional;
+- Modelagem estocástica;
+- Problemas computacionalmente difíceis.
+
+### Domínios de aplicação
+
+- Física computacional;
+- Bioinformática;
+- Otimização combinatória;
+- Simulações científicas;
+- Sistemas de alto desempenho.
+
+$$
+QFT|x\rangle =
+\frac{1}{\sqrt{N}}
+\sum_{y=0}^{N-1}
+e^{2\pi ixy/N}|y\rangle
+$$
+
+---
+
+## Estatísticas do GitHub
+
+$$
+\langle\phi|\psi\rangle =
+\int \phi^*(x)\psi(x)\,dx
+$$
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=baku01&amp;layout=compact&amp;theme=default"
+  alt="Distribuição das linguagens utilizadas nos repositórios de Pedro Correa Siqueira"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+> *“Nature isn't classical, dammit, and if you want to make a simulation of nature, you'd better make it quantum mechanical, and by golly it's a wonderful problem, because it doesn't look so easy.”*
+>
+> **Richard P. Feynman**  
+> *Simulating Physics with Computers — 1981*
 
 </div>
