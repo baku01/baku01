@@ -8,10 +8,9 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bloch_sphere.svg/400px-Bloch_sphere.svg.png" alt="Bloch Sphere" width="220px"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
-[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://seu-portfolio.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/baku01)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-9087-0743)
+[![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/l0gicb0mb)
 
 </div>
 
@@ -71,18 +70,6 @@ Tenho interesse particular na interseção entre engenharia de software e fundam
 
 ---
 
-## Projetos em destaque
-
-> *Substitua pelos seus repositórios reais — projetos concretos pesam muito mais em um README do que listas de interesse.*
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [nome-do-projeto](https://github.com/baku01/repo) | Breve descrição do problema que resolve | Java · Spring Boot · PostgreSQL |
-| [nome-do-projeto](https://github.com/baku01/repo) | Breve descrição do problema que resolve | Julia · DifferentialEquations.jl |
-| [nome-do-projeto](https://github.com/baku01/repo) | Breve descrição do problema que resolve | React · TypeScript |
-
----
-
 ## Computação científica e fundamentos teóricos
 
 Estudo o ecossistema **Julia** para computação numérica e simulação, com foco em:
@@ -108,10 +95,6 @@ $$|\psi\rangle = \alpha|0\rangle + \beta|1\rangle \qquad H = \frac{1}{\sqrt{2}}\
 </div>
 
 ---
-
-## Filosofia de estudo
-
-Bons sistemas não nascem apenas do domínio de ferramentas, mas da compreensão dos fundamentos por trás delas. Busco desenvolver software com **clareza arquitetural**, **rigor técnico** e **aprofundamento teórico** — entendendo os limites dos modelos computacionais clássicos ao mesmo tempo em que exploro o que a computação científica e quântica têm a oferecer.
 
 <div align="center">
 
