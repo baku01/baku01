@@ -1,104 +1,83 @@
-<div align="center">
+```text
+baku01@github:~$ whoami --all
+──────────────────────────────────────────────────────────────────────
+  NAME      Pedro Correa Siqueira
+  HANDLE    baku01
+  AREA      Ciência da Computação · Engenharia de Software
+  FOCUS     Apps Desktop/Mobile, Sistemas em Rust, MCP & IA Local, Web
+  STYLE     Local-first, arquitetura limpa, performance e criptografia
+──────────────────────────────────────────────────────────────────────
+```
 
-# Pedro Correa Siqueira
+<div align="left">
 
-### Desenvolvedor Full Stack | Ciência da Computação
-
-*Construindo sistemas web robustos, com interesse crescente em computação científica e fundamentos de computação quântica*
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bloch_sphere.svg/400px-Bloch_sphere.svg.png" alt="Bloch Sphere" width="220px"/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/baku01)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-9087-0743)
-[![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/l0gicb0mb)
-
-</div>
-
----
-
-## Sobre mim
-
-Estudante de Ciência da Computação com experiência prática no desenvolvimento de sistemas web, arquiteturas backend e soluções escaláveis.
-
-Tenho interesse particular na interseção entre engenharia de software e fundamentos teóricos: matemática aplicada, computação científica e — mais recentemente — os princípios da computação quântica. Gosto de unir a construção de aplicações reais ao estudo dos modelos que sustentam a computação moderna.
-
-**Hoje, meu foco está em:**
-- Desenvolvimento full stack (backend robusto + frontend reativo)
-- Sistemas distribuídos e arquitetura de microserviços
-- Estudo autodidata de computação científica com Julia
-- Fundamentos de computação quântica (ainda em fase de aprendizado)
-
----
-
-## Stack tecnológico
-
-**Linguagens**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-**Backend**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-
-**Banco de dados**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**Infraestrutura e ferramentas**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
----
-
-## Computação científica e fundamentos teóricos
-
-Estudo o ecossistema **Julia** para computação numérica e simulação, com foco em:
-
-- **DifferentialEquations.jl** — resolução numérica de EDOs, EDPs e sistemas dinâmicos
-- **LinearAlgebra.jl** — decomposições, sistemas lineares, álgebra linear computacional
-- **Flux.jl** — redes neurais e aprendizado de máquina
-- **Optimization.jl** e **Plots.jl** — otimização e visualização de dados científicos
-
-Em paralelo, estudo os fundamentos da **computação quântica** — estados, superposição, portas e circuitos quânticos, e algoritmos clássicos da área (Shor, Grover, Transformada Quântica de Fourier):
-
-$$|\psi\rangle = \alpha|0\rangle + \beta|1\rangle \qquad H = \frac{1}{\sqrt{2}}\begin{pmatrix}1 & 1\\ 1 & -1\end{pmatrix}$$
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=baku01&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baku01&layout=compact&theme=default" alt="Top Languages" height="165"/>
+[![GitHub](https://img.shields.io/badge/github-baku01-161b22?style=flat-square&logo=github&logoColor=e6edf3&labelColor=0d1117)](https://github.com/baku01)
+[![ORCID](https://img.shields.io/badge/orcid-0009--0004--9087--0743-161b22?style=flat-square&logo=orcid&logoColor=e6edf3&labelColor=0d1117)](https://orcid.org/0009-0004-9087-0743)
+[![Linktree](https://img.shields.io/badge/links-l0gicb0mb-161b22?style=flat-square&logo=linktree&logoColor=e6edf3&labelColor=0d1117)](https://linktr.ee/l0gicb0mb)
 
 </div>
 
----
+### `$ ls -la ./projects/featured`
+
+| Projeto | Escopo | Stack |
+| :--- | :--- | :--- |
+| [**TrueMain-app**](https://github.com/baku01/TrueMain-app) | Ecossistema Desktop + Android para League of Legends *(fork mantido)*. Integração direta com LCU API / Live Client Data, overlay transparente, *Stats for Nerds* e pareamento LAN via QR Code cifrado ponta a ponta (`X25519 + HKDF-SHA256 + ChaCha20-Poly1305`). | `Rust` `Tauri` `Nuxt` `Kotlin` `Compose` |
+| [**zushi**](https://github.com/baku01/zushi) | App nativo leve para macOS *(fork mantido)* para catálogo, download e aplicação em lote de skins, cromas, formas e mods (`.fantome`, `.zip`, `.modpkg`) com status do patcher em tempo real. | `Tauri 2` `Rust` `C++` `React 19` `TS` |
+| [**local_llm**](https://github.com/baku01/local_llm) | Cliente desktop focado em privacidade para LLMs locais via Ollama. Clean Architecture, streaming, busca multi-estratégia (semântica + multi-engine), *Circuit Breaker*, *Rate Limiting* e cache LRU. | `Flutter` `Dart` `Ollama` |
+| [**WhatsAppMcp**](https://github.com/baku01/WhatsAppMcp) | Servidor Model Context Protocol conectando assistentes de IA ao WhatsApp: bridge de sessão/sync em Go, cache persistente em SQLite e servidor MCP em Python (`stdio`, `SSE`, *streamable HTTP*). | `Go` `Python` `SQLite` `MCP` |
+| [**CronogramaOnline**](https://github.com/baku01/CronogramaOnline) / [**CronogramaReal**](https://github.com/baku01/CronogramaReal-releases) | Gestão de projetos inspirada no MS Project: EAP/WBS, Gantt interativo, dependências TI/II/TT/IT com *lag/lead*, recursos e custos — web + builds desktop com auto-update (macOS Apple Silicon e Windows). | `React` `TypeScript` `Vite` `Tailwind` |
+| [**youtube_video_downloader**](https://github.com/baku01/youtube_video_downloader) | CLI multiplataforma para download de vídeos (MP4) e extração de áudio (MP3) do YouTube/Shorts com modo interativo em terminal, animações ASCII e releases automatizadas via CI/CD. | `Rust` `CLI` `GitHub Actions` |
+
+### `$ ls ./projects/archive`
+
+| Categoria | Repositórios | Stack |
+| :--- | :--- | :--- |
+| `web` | [CifraAriane](https://github.com/baku01/CifraAriane) · [orcamento_simples](https://github.com/baku01/orcamento_simples) · [Estoque_On_Rails](https://github.com/baku01/Estoque_On_Rails) | `Next.js 16` `Bun` `Ruby on Rails` `Hotwire` `Docker` |
+| `backend` | [ApiGestaoProdutosUsuarios](https://github.com/baku01/ApiGestaoProdutosUsuarios) · [SistemaDeCreditoSimples](https://github.com/baku01/SistemaDeCreditoSimples) · [APICleanArchitectureJava](https://github.com/baku01/APICleanArchitectureJava) · [LaravelJWT](https://github.com/baku01/LaravelJWT) · [API-Rinha-Elixir](https://github.com/baku01/API-Rinha-Elixir) | `Kotlin` `Java` `Elixir` `Phoenix` `Laravel` `Redis` |
+| `ai & data` | [GeminiWAChat](https://github.com/baku01/GeminiWAChat) · [Projeto_HydrAI](https://github.com/baku01/Projeto_HydrAI) · [chuvas-regressao-linear](https://github.com/baku01/chuvas-regressao-linear) | `Node.js` `Python` `Gemini API` `scikit-learn` `Plotly` |
+| `sec & sys` | [elixir-simple-c2](https://github.com/baku01/elixir-simple-c2) · [RootKitDev](https://github.com/baku01/RootKitDev) | `Elixir` `C` |
+
+### `$ cat ./stack.conf`
+
+```ini
+[languages]
+primary   = Rust, TypeScript, Kotlin, Dart, Python, Go
+secondary = Ruby, Java, Elixir, C/C++, PHP, JavaScript
+
+[desktop & mobile]
+frameworks = Tauri, Flutter, Jetpack Compose (Android)
+
+[web & backend]
+frontend  = React, Next.js, Vue, Nuxt, Tailwind CSS, Vite
+backend   = Ruby on Rails, Spring Boot, Phoenix, Laravel, Node.js
+ai_tools  = Ollama, Model Context Protocol (MCP), Gemini API
+
+[data & infra]
+databases = PostgreSQL, SQLite, MySQL, Redis, MongoDB
+tooling   = Docker, GitHub Actions, Bun, Git, NixOS
+```
+
+### `$ git log --graph --stat`
 
 <div align="center">
 
-> *"Nature isn't classical, dammit, and if you want to make a simulation of nature, you'd better make it quantum mechanical."*
-> **Richard P. Feynman** — *Simulating Physics with Computers*, 1981
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baku01/baku01/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/baku01/baku01/output/github-snake.svg" />
+  <img alt="Atividade de contribuições no GitHub" src="https://raw.githubusercontent.com/baku01/baku01/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=baku01&show_icons=true&bg_color=0d1117&border_color=30363d&title_color=f0f6fc&text_color=8b949e&icon_color=c9d1d9&border_radius=6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=baku01&show_icons=true&bg_color=ffffff&border_color=d0d7de&title_color=1f2328&text_color=57606a&icon_color=24292f&border_radius=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=baku01&show_icons=true&bg_color=0d1117&border_color=30363d&title_color=f0f6fc&text_color=8b949e&icon_color=c9d1d9&border_radius=6" alt="GitHub Stats" height="155" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=baku01&layout=compact&bg_color=0d1117&border_color=30363d&title_color=f0f6fc&text_color=8b949e&border_radius=6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=baku01&layout=compact&bg_color=ffffff&border_color=d0d7de&title_color=1f2328&text_color=57606a&border_radius=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baku01&layout=compact&bg_color=0d1117&border_color=30363d&title_color=f0f6fc&text_color=8b949e&border_radius=6" alt="Top Languages" height="155" />
+</picture>
 
 </div>
